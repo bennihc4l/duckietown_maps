@@ -90,7 +90,7 @@ objects:
   rotate: -90
   height: 0.18
 - kind: sign_right_T_intersect
-  pos: [0.94, 3.05]
+  pos: [2.2, 2.96]
   rotate: -90
   height: 0.18
 - kind: sign_stop
